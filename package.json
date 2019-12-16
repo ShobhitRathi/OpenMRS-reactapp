@@ -1,6 +1,8 @@
 {
   "name": "my-app",
   "version": "0.1.0",
+  "description":"This repository is for OpenMRS GCI 2019 task for react app",
+  "repository":"https://github.com/ShobhitRathi/OpenMRS-reactapp.git",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
